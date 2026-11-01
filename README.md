@@ -98,7 +98,6 @@ Run `npm run build` and upload the `dist/` folder to any static host, such as Ne
 ## Credits
 
 - Website by **Atharva Desai**
-- Programme Officer: Santosh S. Raut
 - NSS Unit A-107, MMCOE, Pune
 
 ## License
